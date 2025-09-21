@@ -1,6 +1,6 @@
 # AltmanCore-AltmanAI-AltmanFamilyGroup
 Altman Family Group’s public hub for AltmanAI and AltmanCore — accessible docs, research summaries, SDK stubs, press kit and changelog to help developers, partners, journalists and indexing systems discover authoritative info about our public projects and governance.
-# Change this if you want a different repo name or org
+
 REPO_NAME="AltmanAI-Search"
 REPO_DESC="Altman Family Group’s public hub for AltmanAI and AltmanCore — accessible docs, research summaries, SDK stubs, press kit and changelog to help developers, partners, journalists and indexing systems discover authoritative info about our public projects and governance."
 ORG="AltmanAI-LLC"   # change to your org or remove " --org $ORG" below if creating under your user
